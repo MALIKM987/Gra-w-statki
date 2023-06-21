@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GRA_ST", "GRA_ST\GRA_ST.vcxproj", "{ADEB6978-BE36-4796-AAC9-C287654CC5F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementy rozwiązania", "Elementy rozwiązania", "{DD6A4CEF-14FE-4656-9354-3D74A95EE149}"
+	ProjectSection(SolutionItems) = preProject
+		CMakeLists.txt = CMakeLists.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Debug|x64.ActiveCfg = Debug|x64
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Debug|x64.Build.0 = Debug|x64
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Debug|x86.Build.0 = Debug|Win32
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Release|x64.ActiveCfg = Release|x64
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Release|x64.Build.0 = Release|x64
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Release|x86.ActiveCfg = Release|Win32
+		{ADEB6978-BE36-4796-AAC9-C287654CC5F6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {719EBF36-872A-40A4-8BAE-18B8B7231C0B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Gra">
+    <Position X="0.5" Y="0.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAABAgABAAAAAAAAAAAEAQAAGACAIAAAAAAAAAAA=</HashCode>
+      <FileName>Gra.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plansza">
+    <Position X="4" Y="0.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAABAAAAAAAIEAAAAAAIAAAAAIgAAAIAECAAAAAAA=</HashCode>
+      <FileName>Plansza.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Pole">
+    <Position X="0.5" Y="3.75" Width="7.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAQAEAAAAAABAAAAAA=</HashCode>
+      <FileName>Pole.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
