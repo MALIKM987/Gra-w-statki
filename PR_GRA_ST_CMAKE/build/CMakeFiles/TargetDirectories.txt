@@ -1,0 +1,3 @@
+C:/Pro_Gra_Statki/PR_GRA_ST_CMAKE/build/CMakeFiles/GRA_ST.dir
+C:/Pro_Gra_Statki/PR_GRA_ST_CMAKE/build/CMakeFiles/ALL_BUILD.dir
+C:/Pro_Gra_Statki/PR_GRA_ST_CMAKE/build/CMakeFiles/ZERO_CHECK.dir

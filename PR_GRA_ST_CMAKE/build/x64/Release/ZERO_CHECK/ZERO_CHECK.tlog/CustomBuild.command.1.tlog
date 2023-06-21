@@ -1,0 +1,10 @@
+^C:\PRO_GRA_STATKI\PR_GRA_ST_CMAKE\BUILD\CMAKEFILES\C73D157BDF3C49345AA6265DC4298F4A\GENERATE.STAMP.RULE
+setlocal
+C:\Cmake\bin\cmake.exe -SC:/Pro_Gra_Statki/PR_GRA_ST_CMAKE -BC:/Pro_Gra_Statki/PR_GRA_ST_CMAKE/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Pro_Gra_Statki/PR_GRA_ST_CMAKE/build/GRA_W_STATKI.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

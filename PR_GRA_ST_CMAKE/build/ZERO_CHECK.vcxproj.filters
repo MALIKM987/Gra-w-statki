@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Pro_Gra_Statki\PR_GRA_ST_CMAKE\build\CMakeFiles\c73d157bdf3c49345aa6265dc4298f4a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D783A805-728A-39C9-AF02-F4458AFB46D6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
